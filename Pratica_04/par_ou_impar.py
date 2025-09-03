@@ -17,3 +17,4 @@ except ValueError:
   print(f"Total de números ímpares: {len(impares)}")
 
 
+

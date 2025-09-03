@@ -5,5 +5,5 @@ def palindromo(palavra):
     else:
         return print("Não! Não é um palíndromo!")
     
-palindromo("arara")
+palindromo("arara arara")
     
